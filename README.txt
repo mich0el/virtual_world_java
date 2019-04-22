@@ -6,7 +6,6 @@ H [power=5 ] - human (controlled by arrows and "a" button for special ability (a
 
 animals:
 A [power=4 ] - Antelope (moves 2 squares per round)
-C [power=11] - Cyber sheep (can eat Heracleum Sosnowkyi)
 S [power=4 ] - Sheep (no special skills)
 F [power=3 ] - Fox (the smartiest animal in this game, plays safely)
 T [power=2 ] - Turtle (the most slowest animal in this game, good self defence)
