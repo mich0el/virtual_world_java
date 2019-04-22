@@ -25,7 +25,7 @@ public class Main {
 		JSpinner sizeYSpin = new JSpinner();
 
 		frame.setLayout(null);
-		frame.setTitle("Mikhail Lanchytski 172142");
+		frame.setTitle("Virtual world by Michal Leczycki");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setBounds((LCDWidth - frameWidth) / 2, (LCDHeight - frameHeight) / 2, frameWidth, frameHeight);
 		frame.setResizable(false);
