@@ -13,7 +13,6 @@ public class Plant extends Organism {
 		chance = rnd.nextInt(101);
 		if (chance <= CHANCE_OF_SPREAD) {
 			int spreadTo;
-			//Plant newPlant;
 			spreadTo = rnd.nextInt(5);
 			switch (spreadTo) {
 				case 0: //up
