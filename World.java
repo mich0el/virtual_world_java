@@ -192,7 +192,7 @@ public class World {
 		if (screenPositionY < 0)
 			screenPositionY = 0;
 		
-		frame =  new JFrame("Mikhail Lanchytski 172142");
+		frame =  new JFrame("Virtual world by Michal Leczycki");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setResizable(false);
 		frame.setLayout(null);
